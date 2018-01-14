@@ -24,7 +24,7 @@
 		<label for="mdp">Mot de passe</label><br>
 		<input type="password" name="mdp" placeholder="mot de passe"><br>
 
-		<label for="mail">Adresse e-mail</label><br>
+		<label for="mail">Pseudo</label><br>
 		<input type="text" name="mail" placeholder="adresse mail"><br>
 
 		<input type="submit" name="inscription" value="inscription">
